@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "name": "Block 1",
+      "image_url": "https://cdn-jaguarlandrover.com/api/v1/image/1/thumb.jpg",
+      "description": "Block description 1",
+      "meta": {
+        "key": "block-1",
+        "uuid": "4b2185d3-d9e3-4af7-adc7-1d3d31da2de4"
+      }
+    },
+    {
+      "name": "Block 2",
+      "image_url": "https://cdn-jaguarlandrover.com/api/v1/image/2/thumb.jpg",
+      "description": "Block description 2",
+      "meta": {
+        "key": "block-2",
+        "uuid": "008ab627-aaa9-4254-a198-e9661ea97a54"
+      }
+    },
+    {
+      "name": "Another Block",
+      "image_url": "https://cdn-jaguarlandrover.com/api/v1/image/3/thumb.jpg",
+      "description": "Another block description 3",
+      "meta": {
+        "key": "block-3",
+        "uuid": "4ce6a52f-88a3-4488-949f-40a24514c2aa"
+      }
+    },
+    {
+      "name": "Another Block",
+      "image_url": "https://cdn-jaguarlandrover.com/api/v1/image/4/thumb.jpg",
+      "description": "And another block description",
+      "meta": {
+        "key": "block-4",
+        "uuid": "1bf783a9-3ae6-4f6e-8c9b-571995f93961"
+      }
+    }
+  ]
+}
